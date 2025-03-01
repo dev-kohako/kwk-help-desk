@@ -1,0 +1,5 @@
+1#teclado não funciona#Hardware
+2#Wi-fi caiu#
+3#Rede
+4#Computador não liga mais
+
